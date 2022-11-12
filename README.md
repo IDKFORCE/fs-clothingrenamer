@@ -1,4 +1,4 @@
-## fs-clothingrenamer
+## FS-ClothingRenamer
 
 ```My Discord```
 - [Discord](https://discord.gg/6kJ5ubDEWE)
